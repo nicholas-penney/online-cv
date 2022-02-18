@@ -116,20 +116,20 @@ skills:
         level: 90%
       - name: React
         level: 80%
-        - name: HTML
+      - name: HTML
         level: 85%
-        - name: CSS
+      - name: CSS
         level: 75%
 
-        - name: MongoDB
+      - name: MongoDB
         level: 85%
-        - name: SQL
+      - name: SQL
         level: 80%
-        - name: Express
+      - name: Express
         level: 85%
-        - name: PHP
+      - name: PHP
         level: 75%
-        - name: ASP.NET MVC
+      - name: ASP.NET MVC
         level: 50%
 
       - name: Java
