@@ -3,191 +3,149 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Nicholas Penney
+    tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: Penney.Software@gmail.com
+    phone: 07706 823005
+    website: #do not add http://
+    linkedin: nicholas-penney-4796a8140
+    github: nicholas-penney
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Cryptography
         link:
 
-      - item: Snowboarding
+      - item: Fitness / Nutrition
         link:
 
-      - item: Cooking
+      - item: Photo & video editing
         link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Entrepreneur and automotive engineer, now exploring the amazing world of code. Having reached my goals with two businesses, I am now looking to take what I've taught myself about software and web development to make positive changes in the world with a company that will encourage me to grow. I am a curious, driven individual who always strives to find a better way of doing things and improve their skill set.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Coding Traineeship
+      university: IT Career Switch
+    - degree: 70-480 : Programming in HTML5 with JavaScript & CSS3
+      university: Microsoft
+    - degree: BA in Accounting & Financial Management
+      university: University of Sheffield
+      time: 2007 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Financial Accounting. Management Accounting. Project Management. Marketing. Auditing.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Developer
+      time: 2021 - Present
+      company: Penney Software
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Freelance software and web development.
+    - role: Engineer
+      time: 2010 - Present
+      company: Nick Penney Restorations
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Automotive engineer restoring rare / valuable veteran vehicles. Utilising 
+        a plethora or skills including turning, milling, welding, fabrication and 
+        project management.
+        Full restorations, bespoke component manufacture, servicing and tuning 
+        provided, among other services.
+    - role: Mechanic
+      time: 2016 - 2021
+      company: 13Black Rotorsport
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Following a personal passion, establishing a recognised specialist garage 
+        catering for rotary-engined sports cars. Built up a loyal customer base 
+        in a difficult market and doubled turnover within 2 years.
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Projects & Learning
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: MERN stack web shop
+        link: "https://www.carafewine.co.uk/shop"
+        tagline: "React.js for dynamic user interface.   Express / Node for backend, with mail server, user accounts and secure card payments using Stripe.   MongoDB for NoSQL database, using Mongoose ODM library.   Developer collaboration using Git."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Gazetteer
+        link: "https://gazetteer.nicholaspenney.co.uk"
+        tagline: "Mobile-first interactive mapping web app.   Leaflet.js for handling map tiles; PHP backend to handle user requests, fetch data from external APIs, cache data to MySQL database and track user usage for rate-limiting; HTML5 Web Storage API for browser caching; Cron jobs on Apache server for regular data collating and preening."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Embedded system collaboration
+        link: ""
+        tagline: "JavaFX UI running on Linux-based embedded system prototype for startup. Refactoring & integrating other developers’ code and implementing new features interfacing with hardware / networking."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Wordpress
+        link: "https://www.chapelplacetw.com"
+        tagline: "SME business site with mail server for customer bookings. Design, build, deployment and maintenance."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Guitar Analyze
+        img: "https://github.com/nicholas-penney/online-cv/blob/gh-pages/assets/images/java.jpg?raw=true"
+        link: "https://github.com/nicholas-penney/GuitarAnalyze"
+        tagline: "A desktop tool built with JavaFX for guitarists to better understand musical composition."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Government Job Board
+        img: "https://github.com/nicholas-penney/online-cv/blob/gh-pages/assets/images/dotnet.jpg?raw=true"
+        link: "https://github.com/nicholas-penney/GovernmentJobBoard"
+        tagline: "Job website using ASP.NET MVC 5."
+        
+      - title: Numbers Round
+        img: "https://github.com/nicholas-penney/online-cv/blob/gh-pages/assets/images/android.jpg?raw=true"
+        link: "https://github.com/nicholas-penney/Numbers-Round"
+        tagline: "A Countdown-style mobile app built with Android Studio using Java."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: JavaScript
+        level: 90%
+      - name: React
+        level: 80%
+        - name: HTML
         level: 85%
+        - name: CSS
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+        - name: MongoDB
+        level: 85%
+        - name: SQL
+        level: 80%
+        - name: Express
+        level: 85%
+        - name: PHP
+        level: 75%
+        - name: ASP.NET MVC
+        level: 50%
+
+      - name: Java
+        level: 80%
+      - name: JavaFX
+        level: 77%
+      - name: Linux
+        level: 80%
+      - name: Apache
+        level: 75%
+      - name: Android Studio
+        level: 55%
+      - name: Python
+        level: 48%
+      - name: C
+        level: 45%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Thank you for your time, please get in touch!
