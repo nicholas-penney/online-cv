@@ -89,6 +89,7 @@ projects:
 
       - title: Embedded system collaboration
         img: "https://raw.githubusercontent.com/nicholas-penney/online-cv/main/assets/images/java.jpg"
+        link: "https://github.com/nicholas-penney/Embedded-System-Collaboration"
         tagline: "JavaFX UI running on Linux-based embedded system prototype for startup. Refactoring & integrating other developers’ code and implementing new features interfacing with hardware / networking."
 
       - title: Wordpress
@@ -115,7 +116,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Frontend
+      - name: FRONTEND
         level: 0%
       - name: JavaScript
         level: 90%
@@ -126,7 +127,7 @@ skills:
       - name: CSS
         level: 75%
 
-      - name: Backend
+      - name: BACKEND
         level: 0%
       - name: MongoDB
         level: 85%
@@ -139,7 +140,7 @@ skills:
       - name: ASP.NET MVC
         level: 50%
 
-      - name: Software / other
+      - name: SOFTWARE / OTHER
         level: 0%
       - name: Java
         level: 80%
