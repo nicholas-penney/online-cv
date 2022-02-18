@@ -78,36 +78,36 @@ projects:
     title: Projects & Learning
     assignments:
       - title: MERN stack web shop
-        img: "https://raw.githubusercontent.com/PenneySoft/online-cv/gh-pages/assets/images/react.png"
+        img: "https://raw.githubusercontent.com/nicholas-penney/online-cv/gh-pages/assets/images/react.jpg"
         link: "https://www.carafewine.co.uk/shop"
         tagline: "React.js for dynamic user interface.   Express / Node for backend, with mail server, user accounts and secure card payments using Stripe.   MongoDB for NoSQL database, using Mongoose ODM library.   Developer collaboration using Git."
 
       - title: Gazetteer
-        img: "https://raw.githubusercontent.com/PenneySoft/online-cv/gh-pages/assets/images/gazetteer.png"
+        img: "https://raw.githubusercontent.com/nicholas-penney/online-cv/gh-pages/assets/images/gazetteer.jpg"
         link: "https://gazetteer.nicholaspenney.co.uk"
         tagline: "Mobile-first interactive mapping web app.   Leaflet.js for handling map tiles; PHP backend to handle user requests, fetch data from external APIs, cache data to MySQL database and track user usage for rate-limiting; HTML5 Web Storage API for browser caching; Cron jobs on Apache server for regular data collating and preening."
 
       - title: Embedded system collaboration
-        img: "https://raw.githubusercontent.com/PenneySoft/online-cv/gh-pages/assets/images/java.jpg"
+        img: "https://raw.githubusercontent.com/nicholas-penney/online-cv/gh-pages/assets/images/java.jpg"
         tagline: "JavaFX UI running on Linux-based embedded system prototype for startup. Refactoring & integrating other developers’ code and implementing new features interfacing with hardware / networking."
 
       - title: Wordpress
-        img: "https://raw.githubusercontent.com/PenneySoft/online-cv/gh-pages/assets/images/wordpress.png"
+        img: "https://raw.githubusercontent.com/nicholas-penney/online-cv/gh-pages/assets/images/wordpress.jpg"
         link: "https://www.chapelplacetw.com"
         tagline: "SME business site with mail server for customer bookings. Design, build, deployment and maintenance."
 
       - title: Guitar Analyze
-        img: "https://raw.githubusercontent.com/PenneySoft/online-cv/gh-pages/assets/images/java.jpg"
+        img: "https://raw.githubusercontent.com/nicholas-penney/online-cv/gh-pages/assets/images/java.jpg"
         link: "https://github.com/nicholas-penney/GuitarAnalyze"
         tagline: "A desktop tool built with JavaFX for guitarists to better understand musical composition."
 
       - title: Government Job Board
-        img: "https://raw.githubusercontent.com/PenneySoft/online-cv/gh-pages/assets/images/dotnet.jpg"
+        img: "https://raw.githubusercontent.com/nicholas-penney/online-cv/gh-pages/assets/images/dotnet.jpg"
         link: "https://github.com/nicholas-penney/GovernmentJobBoard"
         tagline: "Job website using ASP.NET MVC 5."
         
       - title: Numbers Round
-        img: "https://raw.githubusercontent.com/PenneySoft/online-cv/gh-pages/assets/images/android.jpg"
+        img: "https://raw.githubusercontent.com/nicholas-penney/online-cv/gh-pages/assets/images/android.jpg"
         link: "https://github.com/nicholas-penney/Numbers-Round"
         tagline: "A Countdown-style mobile app built with Android Studio using Java."
 
