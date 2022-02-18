@@ -92,7 +92,7 @@ projects:
         tagline: "JavaFX UI running on Linux-based embedded system prototype for startup. Refactoring & integrating other developers’ code and implementing new features interfacing with hardware / networking."
 
       - title: Wordpress
-      img: "https://raw.githubusercontent.com/PenneySoft/online-cv/gh-pages/assets/images/wordpress.jpg"
+        img: "https://raw.githubusercontent.com/PenneySoft/online-cv/gh-pages/assets/images/wordpress.jpg"
         link: "https://www.chapelplacetw.com"
         tagline: "SME business site with mail server for customer bookings. Design, build, deployment and maintenance."
 
